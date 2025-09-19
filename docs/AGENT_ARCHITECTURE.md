@@ -65,17 +65,17 @@ This document describes the foundational design patterns, principles, and best p
 
 ## Example: Agent Orchestration Flow
 
-Receive Input (user query or external trigger)
+1. Receive Input (user query or external trigger)
 
-Parse context and select relevant memory/data sources
+2. Parse context and select relevant memory/data sources
 
-Apply prompt instructions for reasoning or tool invocation
+3. Apply prompt instructions for reasoning or tool invocation
 
-Decide next action (respond, tool call, escalate error)
+4. Decide next action (respond, tool call, escalate error)
 
-Log decisions, results, and context for traceability
+5. Log decisions, results, and context for traceability
 
-Loop back to new input or end session
+6. Loop back to new input or end session
 
 
 ---
