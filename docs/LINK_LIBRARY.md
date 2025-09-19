@@ -19,7 +19,7 @@ The Link Library is **externally maintained** in a version-controlled GitHub rep
 
 The canonical Link Library and related resource documents can be found here:
 
-[https://github.com/[your-org-or-username]/custom-ai-agent-creator-link-library](https://github.com/[your-org-or-username]/custom-ai-agent-creator-link-library)
+https://github.com/jcmrs/custom-ai-agent-creator-link-library/blob/main/docs/
 
 ---
 
@@ -27,17 +27,17 @@ The canonical Link Library and related resource documents can be found here:
 
 ### Core Documentation
 
-- **DOMAIN_PROFILES.md** - Defines domain roles and collaboration best practices
-- **SRE_METHODS.md** - Site Reliability Engineering patterns for quality and collaboration
-- **WORKFLOW_STEPS.md** - Detailed stepwise process guide for domain experts
-- **PROMPT_GUIDES.md** - Best practices and examples for prompt engineering
-- **AGENT_ARCHITECTURE.md** - Architecture and orchestration design patterns
-- **ERROR_HANDLING.md** - Error taxonomy and recovery protocols
+- **DOMAIN_PROFILES.md** - Defines domain roles and collaboration best practices https://github.com/jcmrs/custom-ai-agent-creator-link-library/blob/main/docs/DOMAIN_PROFILES.md
+- **SRE_METHODS.md** - Site Reliability Engineering patterns for quality and collaboration https://github.com/jcmrs/custom-ai-agent-creator-link-library/blob/main/docs/SRE_METHODS.md
+- **WORKFLOW_STEPS.md** - Detailed stepwise process guide for domain experts https://github.com/jcmrs/custom-ai-agent-creator-link-library/blob/main/docs/WORKFLOW_STEPS.md
+- **PROMPT_GUIDES.md** - Best practices and examples for prompt engineering https://github.com/jcmrs/custom-ai-agent-creator-link-library/blob/main/docs/PROMPT_GUIDES.md
+- **AGENT_ARCHITECTURE.md** - Architecture and orchestration design patterns https://github.com/jcmrs/custom-ai-agent-creator-link-library/blob/main/docs/AGENT_ARCHITECTURE.md
+- **ERROR_HANDLING.md** - Error taxonomy and recovery protocols https://github.com/jcmrs/custom-ai-agent-creator-link-library/blob/main/docs/ERROR_HANDLING.md
 
 ### Research and Samples
 
-- **research/** - Research papers, community insights, and tutorial summaries
-- **samples/** - Prompt examples, agent specs, scripts, and templates
+- **research/** - Research papers, community insights, and tutorial summaries https://github.com/jcmrs/custom-ai-agent-creator-link-library/blob/main/docs/research/
+- **samples/** - Prompt examples, agent specs, scripts, and templates https://github.com/jcmrs/custom-ai-agent-creator-link-library/blob/main/docs/samples/
 
 ---
 
